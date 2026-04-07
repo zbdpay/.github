@@ -16,11 +16,7 @@
 
 ## ZBD
 
-ZBD is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
-
-We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZBD has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
-
-With ZBD, it's easy! Anyone can do it.
+ZBD is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences. We enable businesses and consumers to quickly introduce instantaneous multi-currency payments to the fabric of their applications, games, and platforms. 
 
 ## Documentation
 

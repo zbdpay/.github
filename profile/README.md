@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://zbdpay.com">
     <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
-    <h3 align="center">ZBD</h3>
   </a>
 </p>
 
